@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ABIVA_PRELIMS.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ABIVA_PRELIMS.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ABIVA_PRELIMS.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ABIVA_PRELIMS.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\ABIVA_PRELIMS.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ABIVA_PRELIMS.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\ABIVA_PRELIMS.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\ABIVA_PRELIMS.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\ABIVA_PRELIMS.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ABIVA_PRELIMS.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ABIVA_PRELIMS.pdb
